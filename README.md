@@ -63,7 +63,7 @@ As a freelance web developer, you often need simple logos for your projects. Thi
 
 ## Walkthrough Video
 
-To see a demonstration of the application's functionality, including how to run it and create a logo, watch the walkthrough video ().
+To see a demonstration of the application's functionality, including how to run it and create a logo, watch the walkthrough video (https://www.youtube.com/watch?v=VU8lJyQX8b4).
 
 ## Testing
 
